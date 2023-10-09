@@ -1,0 +1,410 @@
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 21:36:11","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 21:36:11","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 21:36:14","data":"35091.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA34","timestamp":"18/07/2023 21:36:15","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA34","timestamp":"18/07/2023 21:36:15","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 21:36:16","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 21:36:16","data":0}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 21:36:16","data":"21306.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 21:36:16","data":"16725.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 21:36:18","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 21:36:18","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 21:36:23","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 21:36:23","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 21:36:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 21:36:33","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA22","timestamp":"18/07/2023 21:36:38","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA22","timestamp":"18/07/2023 21:36:38","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA34","timestamp":"18/07/2023 21:36:45","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA34","timestamp":"18/07/2023 21:36:45","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 21:46:11","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 21:46:11","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 21:46:18","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 21:46:18","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 21:46:24","data":"35091.00"}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 21:46:26","data":"21291.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 21:46:26","data":"16506.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 21:46:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 21:46:33","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 21:46:34","data":"35025.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 21:46:43","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 21:46:43","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA04","timestamp":"18/07/2023 21:56:19","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA04","timestamp":"18/07/2023 21:56:19","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 21:56:21","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 21:56:21","data":0}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 21:56:26","data":"21417.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 21:56:26","data":"16770.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 21:56:28","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 21:56:28","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 21:56:34","data":"35280.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 21:56:53","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 21:56:53","data":0}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 22:06:26","data":"21213.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 22:06:26","data":"16209.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 22:06:28","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 22:06:28","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 22:06:31","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 22:06:31","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 22:06:38","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 22:06:38","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:07:03","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:07:03","data":0}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 22:16:26","data":"21300.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 22:16:26","data":"16668.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA61","timestamp":"18/07/2023 22:16:26","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA61","timestamp":"18/07/2023 22:16:26","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 22:16:34","data":"35130.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 22:16:41","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 22:16:41","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 22:16:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 22:16:48","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:17:03","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:17:03","data":0}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 22:26:27","data":"21345.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 22:26:27","data":"16560.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA61","timestamp":"18/07/2023 22:26:27","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA61","timestamp":"18/07/2023 22:26:27","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA04","timestamp":"18/07/2023 22:26:29","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA04","timestamp":"18/07/2023 22:26:29","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 22:26:34","data":"35256.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 22:26:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 22:26:48","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 22:26:51","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 22:26:51","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:27:03","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:27:03","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA38","timestamp":"18/07/2023 22:27:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA38","timestamp":"18/07/2023 22:27:33","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 22:36:34","data":"35295.00"}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 22:36:36","data":"21411.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 22:36:36","data":"15855.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 22:36:44","data":"35319.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 22:36:51","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 22:36:51","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA51","timestamp":"18/07/2023 22:36:52","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA51","timestamp":"18/07/2023 22:36:52","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 22:36:58","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 22:36:58","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:37:03","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:37:03","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:37:13","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:37:13","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:37:23","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:37:23","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA38","timestamp":"18/07/2023 22:37:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA38","timestamp":"18/07/2023 22:37:33","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:37:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:37:33","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA22","timestamp":"18/07/2023 22:38:28","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA22","timestamp":"18/07/2023 22:38:28","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA38","timestamp":"18/07/2023 22:38:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA38","timestamp":"18/07/2023 22:38:33","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA38","timestamp":"18/07/2023 22:39:03","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA38","timestamp":"18/07/2023 22:39:03","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA38","timestamp":"18/07/2023 22:39:43","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA38","timestamp":"18/07/2023 22:39:43","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA23","timestamp":"18/07/2023 22:46:27","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA23","timestamp":"18/07/2023 22:46:27","data":0}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 22:46:36","data":"21381.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 22:46:36","data":"16629.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 22:46:44","data":"35322.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 22:46:51","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 22:46:51","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 22:46:52","data":"35031.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 22:46:58","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 22:46:58","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 22:47:22","data":"35019.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA34","timestamp":"18/07/2023 22:47:25","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA34","timestamp":"18/07/2023 22:47:25","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:47:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:47:33","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:47:43","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:47:43","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 22:56:45","data":"35175.00"}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 22:56:47","data":"21327.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 22:56:47","data":"16584.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 22:56:51","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 22:56:51","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 22:56:54","data":"35193.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 22:56:58","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 22:56:58","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 22:57:08","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 22:57:08","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 22:57:28","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 22:57:28","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 22:57:38","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 22:57:38","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:57:46","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:57:46","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:57:47","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:57:47","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:57:53","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:57:53","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:58:03","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:58:03","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:58:13","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:58:13","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:58:23","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:58:23","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 22:58:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 22:58:33","data":0}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 23:06:47","data":"21486.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 23:06:47","data":"16785.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA61","timestamp":"18/07/2023 23:06:47","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA61","timestamp":"18/07/2023 23:06:47","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 23:06:51","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 23:06:51","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 23:07:01","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 23:07:01","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:07:04","data":"35397.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 23:07:11","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 23:07:11","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:07:14","data":"35292.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 23:07:21","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 23:07:21","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:07:22","data":"35070.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:07:38","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:07:38","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:07:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:07:48","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:08:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:08:33","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA22","timestamp":"18/07/2023 23:10:28","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA22","timestamp":"18/07/2023 23:10:28","data":0}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 23:16:57","data":"21483.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 23:16:57","data":"16752.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA61","timestamp":"18/07/2023 23:16:57","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:17:24","data":"35115.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:17:24","data":"35511.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 23:17:31","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 23:17:31","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:17:32","data":"35163.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:17:32","data":"35013.00"}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:17:34","data":"35088.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:17:34","data":"35487.00"}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:17:42","data":"35196.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:17:42","data":"35049.00"}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:17:44","data":"35181.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:17:44","data":"35571.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:17:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:17:48","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:17:54","data":"35193.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:17:54","data":"35592.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:17:58","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:17:58","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:18:04","data":"35127.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:18:04","data":"35523.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:18:08","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:18:08","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:18:14","data":"35085.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:18:14","data":"35490.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:18:18","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:18:18","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:18:24","data":"35151.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:18:24","data":"35547.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:18:28","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:18:28","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:18:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:18:33","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:18:34","data":"35040.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:18:34","data":"35433.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:18:38","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:18:38","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:18:45","data":"35136.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:18:45","data":"35535.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:18:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:18:48","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:18:58","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:18:58","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:19:08","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:19:08","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:19:18","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:19:18","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:19:28","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:19:28","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:19:38","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:19:38","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:19:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:19:48","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:19:58","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:19:58","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:20:08","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:20:08","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:20:18","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:20:18","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:20:28","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:20:28","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:20:38","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:20:38","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:20:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:20:48","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:20:58","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:20:58","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:21:08","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:21:08","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA38","timestamp":"18/07/2023 23:21:13","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA38","timestamp":"18/07/2023 23:21:13","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:21:18","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:21:18","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA38","timestamp":"18/07/2023 23:21:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA38","timestamp":"18/07/2023 23:21:33","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:21:38","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:21:38","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA38","timestamp":"18/07/2023 23:21:53","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA38","timestamp":"18/07/2023 23:21:53","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA36","timestamp":"18/07/2023 23:26:35","data":"35082.00"}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 23:26:57","data":"21525.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 23:26:57","data":"16767.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 23:27:31","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 23:27:31","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 23:27:41","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 23:27:41","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:27:42","data":"35061.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 23:27:51","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 23:27:51","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:27:52","data":"35061.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 23:28:01","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 23:28:01","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA17","timestamp":"18/07/2023 23:28:05","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA17","timestamp":"18/07/2023 23:28:05","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:28:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:28:33","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:28:43","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:28:43","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:28:53","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:28:53","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:28:54","data":"35400.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:29:03","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:29:03","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:29:04","data":"35358.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:29:13","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:29:13","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:29:14","data":"35310.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:29:23","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:29:23","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:29:24","data":"35370.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:29:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:29:33","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:29:34","data":"35331.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:29:43","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:29:43","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:29:53","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:29:53","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:31:38","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:31:38","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:31:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:31:48","data":0}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 23:36:57","data":"21420.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 23:36:57","data":"16632.00"}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:37:52","data":"35016.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 23:38:01","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 23:38:01","data":0}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:39:35","data":"35301.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:39:53","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:39:53","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA17","timestamp":"18/07/2023 23:40:05","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA17","timestamp":"18/07/2023 23:40:05","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA17","timestamp":"18/07/2023 23:40:15","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA17","timestamp":"18/07/2023 23:40:15","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA17","timestamp":"18/07/2023 23:41:25","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA17","timestamp":"18/07/2023 23:41:25","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:41:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:41:48","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:41:58","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:41:58","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:42:08","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:42:08","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:42:18","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:42:18","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:42:28","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:42:28","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:42:38","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:42:38","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA34","timestamp":"18/07/2023 23:42:45","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA34","timestamp":"18/07/2023 23:42:45","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:42:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:42:48","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:42:58","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:42:58","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA38","timestamp":"18/07/2023 23:43:03","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA38","timestamp":"18/07/2023 23:43:03","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:43:08","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:43:08","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:43:18","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:43:18","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:43:28","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:43:28","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:43:38","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:43:38","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:43:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:43:48","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:43:58","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:43:58","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:44:08","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:44:08","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:44:18","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:44:18","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:44:28","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:44:28","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:44:38","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:44:38","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:44:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:44:48","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:44:58","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:44:58","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:45:18","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:45:18","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA36","timestamp":"18/07/2023 23:46:45","data":"35070.00"}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 23:47:07","data":"21552.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 23:47:07","data":"16782.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 23:48:01","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 23:48:01","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:48:02","data":"35130.00"}
+{"level":"error","message":"Voltage V23 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 23:49:37","data":"21549.00"}
+{"level":"error","message":"Voltage V31 less than 30KV.","wegid":"TATA61","timestamp":"18/07/2023 23:49:37","data":"16686.00"}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:49:42","data":"35070.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA38","timestamp":"18/07/2023 23:49:43","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA38","timestamp":"18/07/2023 23:49:43","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:49:43","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:49:43","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:49:45","data":"35037.00"}
+{"level":"error","message":"Voltage V23 Greater than 35KV.","wegid":"TATA63","timestamp":"18/07/2023 23:49:45","data":"35424.00"}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA36","timestamp":"18/07/2023 23:49:45","data":"35133.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA24","timestamp":"18/07/2023 23:49:48","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA24","timestamp":"18/07/2023 23:49:48","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA01","timestamp":"18/07/2023 23:49:51","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA01","timestamp":"18/07/2023 23:49:51","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:49:52","data":"35049.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:49:53","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:49:53","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:50:02","data":"35013.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:50:03","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:50:03","data":0}
+{"level":"error","message":"Voltage V12 Greater than 35KV.","wegid":"TATA51","timestamp":"18/07/2023 23:50:12","data":"35013.00"}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:50:13","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:50:13","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:50:23","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:50:23","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:50:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:50:33","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:50:43","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:50:43","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:50:53","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:50:53","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:51:03","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:51:03","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:51:13","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:51:13","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:51:23","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:51:23","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:51:33","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:51:33","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:51:43","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:51:43","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:51:53","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:51:53","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:52:03","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:52:03","data":0}
+{"level":"error","message":"BRKON LOW","wegid":"TATA33","timestamp":"18/07/2023 23:52:13","data":0}
+{"level":"error","message":"SP CRGD LOW","wegid":"TATA33","timestamp":"18/07/2023 23:52:13","data":0}
